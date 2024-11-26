@@ -6,7 +6,7 @@ const herosection = () => {
   return (
     <div className={styles.hero}>
       <div>
-      <h1 className={styles.name}>Hello, I'm Mmuhammad Zeeshan</h1>
+      <h1 className={styles.name}>Hello, I`&apos;`m Mmuhammad Zeeshan</h1>
       <p className={styles.para}>Dedicated Full-Stack Web Developer in progress specializing in HTML5, CSS3, TypeScript, JavaScript, Tailwind CSS, and Next.js, looking forward on building dynamic and user-centric web applications.</p>
       <button className={styles.button}>Hire Me</button>
       <button className={styles.button}>Download CV</button>

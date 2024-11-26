@@ -8,8 +8,8 @@ const Contactsection = () => {
   return (
     <div className={styles.contact}>
         <div className={styles.left}>
-      <h4 className={styles.h4}>Let's connect</h4>
-      <p className={styles.cp}>I'm currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you</p>
+      <h4 className={styles.h4}>Let`&apos;`s connect</h4>
+      <p className={styles.cp}>I`&apos;`m currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I`&apos;`ll try my best to get back to you</p>
       <a href="https://github.com/zeeshan8505">
       <Image src={GithubIcon} alt='Github Icon'/>
       </a>
